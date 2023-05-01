@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> Kuldeep Lodha </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/kuldeep-lodha-69b979197/">LinkedIn</a> |
+  <a href="https://github.com/kuldeeplodha">GitHub</a>
+ 
+  <br>  
+  Experienced Python developer with expertise in Django, Pandas, and NumPy frameworks. Strong understanding of OOP and software design principles. Skilled in developing and maintaining web applications and performing data analysis. Continuously learning and staying up-to-date with industry trends.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
